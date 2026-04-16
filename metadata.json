@@ -1,0 +1,6 @@
+{
+  "name": "SmartSpend",
+  "description": "A professional smart expense tracker with category-wise analysis, dynamic charts, and persistent storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
